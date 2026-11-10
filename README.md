@@ -5,6 +5,32 @@ group member
 1 kalid mohammed  id 1105/16
 2 amir hassen  id 0236/16
 
+
+
+
+#first assugnment
+# ============================================================
+# name amir Hassen  id 0236/16 work upto line 1-116---------------------- CREATE DATASET (30 RECORDS)
+# ============================================================
+and 
+#second assignment
+# ============================================================
+# name Amir hassen   id 0236/16 work upto line 1-107------------------ IMPORT LIBRARIES and CREATE DATASET (30 PUMP RECORDS)
+# ============================================================
+#first assignment
+# ============================================================
+# name kalid mohammed  id 1105/16 work upto line 132-307------------------DEFINE FIVE INDEPENDENT CLASSIFIERS
+# ============================================================
+# second assignmnt
+# ============================================================
+# name kalid mohammed   id 1105/16 work upto line 117-407------------------ PART 3-PART 10
+# ============================================================
+
+
+
+
+
+
 # Pump Condition Classification Using Machine Learning
 
 ## Project Description

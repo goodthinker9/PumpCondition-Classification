@@ -4,6 +4,7 @@ Machine Learning project for classifying pump condition
 group member 
 1 kalid mohammed  id 1105/16
 2 amir hassen  id 0236/16
+3 sumairaa yimam  id id 1837/16
 
 
 
@@ -19,11 +20,11 @@ and
 # ============================================================
 #first assignment
 # ============================================================
-# name kalid mohammed  id 1105/16 work upto line 132-307------------------DEFINE FIVE INDEPENDENT CLASSIFIERS
+# name kalid mohammed  id 1105/16 work upto line 132-307------------------DEFINE FIVE INDEPENDENT CLASSIFIERS(part 3-5)
 # ============================================================
 # second assignmnt
 # ============================================================
-# name sumairaa yimam    id 1837/16 work upto line 117-407------------------ PART 3-PART 10
+# sumairaa yimam    id 1837/16 work upto line 117-407------------------ PART 6-PART 10
 # ============================================================
 
 
